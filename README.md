@@ -35,7 +35,7 @@ The startupers will be interested in knowing which country or city to choose to 
 
 Also, investors can use the findings to choose the correct location to invest their money and predict approximate scores.
 
-## Analyses
+## Analysis
   
 ### Hypothesis 1:
 
