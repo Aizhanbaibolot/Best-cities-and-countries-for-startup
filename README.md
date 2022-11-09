@@ -7,9 +7,8 @@ and I will use t-test to test the significance of score differences for differen
 interesting for startupers as well as investors. The startupers will be interested in knowing which country or city to choose to realize their ideas. 
 Also investors can use the findings to choose the correct location to invest their money and predict approximate scores.
 
-### The Research Questions: <p>
-## There are two questions that will be addressed in this analysis:
-![image](https://user-images.githubusercontent.com/98500457/200922987-de2b5dee-66d8-4197-896c-bd68dd39b3d3.png)
+## The Research Questions: 
+### There are two questions that will be addressed in this analysis:
 
 * If there is any correlation between quantity score and quality score of the countries.
   
