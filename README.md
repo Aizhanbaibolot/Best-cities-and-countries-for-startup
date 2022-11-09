@@ -7,7 +7,7 @@ and I will use t-test to test the significance of score differences for differen
 interesting for startupers as well as investors. The startupers will be interested in knowing which country or city to choose to realize their ideas. 
 Also investors can use the findings to choose the correct location to invest their money and predict approximate scores.
 
-* Hypothesis 1: 
+###Hypothesis 1: <p>
 Ho: There is no statistically significant relationship between quantity score and quality score of the countries.
 Ha: There is a statistically significant relationship between quantity score and quality score of the countries.
 ![image](https://user-images.githubusercontent.com/98500457/200920073-aa873158-f459-4e08-a8e2-d525ee063799.png)
