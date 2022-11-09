@@ -10,7 +10,7 @@ Also investors can use the findings to choose the correct location to invest the
 ### Hypothesis 1: <p>
 * Ho: There is no statistically significant relationship between quantity score and quality score of the countries.
 * Ha: There is a statistically significant relationship between quantity score and quality score of the countries.
-![image](https://user-images.githubusercontent.com/98500457/200920073-aa873158-f459-4e08-a8e2-d525ee063799.png)
+* ![image](https://user-images.githubusercontent.com/98500457/200920073-aa873158-f459-4e08-a8e2-d525ee063799.png)
 
 * Strategy 2: Assume growth in revenue of cars, number of cars remains same
 * Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
