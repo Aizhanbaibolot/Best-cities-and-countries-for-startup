@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/98500457/200929426-c36372b2-308b-41d0-b5bc-ea168a585372.png)
+
 # **Statistical Analysis Startup Data**
 ### Project Overview <p>
 The data is called The Best Cities and Countries for Startups. The dataset consists of 1000 records across 9 fields. I would like to answer two questions 
