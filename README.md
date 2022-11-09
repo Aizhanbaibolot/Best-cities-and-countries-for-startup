@@ -7,12 +7,19 @@ and I will use t-test to test the significance of score differences for differen
 interesting for startupers as well as investors. The startupers will be interested in knowing which country or city to choose to realize their ideas. 
 Also investors can use the findings to choose the correct location to invest their money and predict approximate scores.
 
-## The Research Questions: 
-### There are two questions that will be addressed in this analysis:
+### The Research Questions: 
+There are two questions that will be addressed in this analysis:
 
 * If there is any correlation between quantity score and quality score of the countries.
   
 * If there is a significant difference between total scores for cities with sign of change in position and without.
+  
+### The Hypotheses
+There are two hypotheses related to the previous research questions, as follows:
+ 
+* Hypothesis 1: The country scores are correlated. This means that countries that scored well in one field are likely to score well in other fields.
+  
+* Hypothesis 2: There is no difference between the total scores of the cities with sign of change in position and without.
   
 This visualization is made to see correlation between business, quality, and quantity scores at once, to save time and room. From here we can choose variables to work with in the Hypothesis part:
   
