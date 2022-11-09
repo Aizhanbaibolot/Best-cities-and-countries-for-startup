@@ -21,8 +21,27 @@ There are two hypotheses related to the previous research questions, as follows:
   
 * Hypothesis 2: There is no difference between the total scores of the cities with sign of change in position and without.
   
-This visualization is made to see correlation between business, quality, and quantity scores at once, to save time and room. From here we can choose variables to work with in the Hypothesis part:
-  
+How will the data test the hypotheses?
+
+Visualizations will show a correlation between quality and quantity scores of the cities. Pearson r will test for correlation.  
+
+T-test will show the significance of score differences for the cities with the sign of change in position and without. 
+
+Who will find the findings valuable, and how will they use them?
+
+The startupers will be interested in knowing which country or city to choose to realize their ideas. 
+
+Also, investors can use the findings to choose the correct location to invest their money and predict approximate scores.
+
+## The analyses - Hypothesis 1:
+
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/98500457/200925797-3049f621-0a50-45ab-8f30-fd582e536242.png">
+
+* The scatterplot shows correlation between quantity and quality scores of the cities.
+* Colors indicates if there is a sign of change in position or not.
+* P-value is less than alpha(.05) Pearson r test
+* There is a statistically significant linear relationship between quantity score and quality score of the countries. The relationship is positive.
+
 ![image](https://user-images.githubusercontent.com/98500457/200921028-053100bc-cf09-42ec-9eb0-ed8ac9516ce7.png)
 
 The scatterplot shows correlation between quantity and quality scores of the cities. Colors indicates if there is a sign of change in position or not. As we can see the data is correlated and it is positive correlation:  
