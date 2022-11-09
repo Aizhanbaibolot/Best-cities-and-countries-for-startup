@@ -65,6 +65,12 @@ Look for quantity and quality scores of the cities when deciding to invest your 
 ### Startupers:
 Pick anywhere to start realizing your ideas regardless of the position of the countries. You can enter the market online which gives you wider audience and the location won't make any sense. 
 
+## Result
+* Tested hypothesis around best location (cities and countries) for startups to be successful.
+* Conducted statistical analysis using Python, pandas
+* Created data visualization and a clear statement that interpreted results and answered hypothesis questions.
+* Presented final recommendations to be used by founders and entrepreneurs when determining location for their organization. 
+
 ### More Information
 See the full analysis in the [Jupyter Notebook ](https://github.com/Aizhanbaibolot/Statistical-Analysis-Startup-Data/blob/main/capstone_3.ipynb) or review this [presentation](https://github.com/Aizhanbaibolot/Statistical-Analysis-Startup-Data/blob/main/capstone3_startups.pdf).
 
