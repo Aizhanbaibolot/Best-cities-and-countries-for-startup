@@ -42,7 +42,7 @@ Also, investors can use the findings to choose the correct location to invest th
 * P-value is less than alpha(.05) Pearson r test
 * There is a statistically significant linear relationship between quantity score and quality score of the countries. The relationship is positive.
 
-## The analyses - Hypothesis 1:
+## The analyses - Hypothesis 2:
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/98500457/200926278-105a7fe0-a65f-41e0-961e-40c280c02ef7.png">
 
