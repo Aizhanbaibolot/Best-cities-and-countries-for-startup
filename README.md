@@ -11,7 +11,10 @@ Also investors can use the findings to choose the correct location to invest the
 * Ho: There is no statistically significant relationship between quantity score and quality score of the countries.
 * Ha: There is a statistically significant relationship between quantity score and quality score of the countries.
 * ![image](https://user-images.githubusercontent.com/98500457/200920073-aa873158-f459-4e08-a8e2-d525ee063799.png)
-
+* This visualization is made to see correlation between business, quality, and quantity scores at once, to save time and room. From here we can choose variables to work with in the Hypothesis part.
+* ![image](https://user-images.githubusercontent.com/98500457/200920821-d7df61ad-4b56-420e-b956-02a0f3e7dc32.png)
+* This scatterplot shows correlation between quantity and quality scores of the cities. Colors indicates if there is a sign of change in position or not. As we can see the data is correlated and it is positive correlation.
+  
 * Strategy 2: Assume growth in revenue of cars, number of cars remains same
 * Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
 Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
