@@ -21,13 +21,13 @@ There are two hypotheses related to the previous research questions, as follows:
   
 * Hypothesis 2: There is no difference between the total scores of the cities with sign of change in position and without.
   
-How will the data test the hypotheses?
+### How will the data test the hypotheses?
 
 Visualizations will show a correlation between quality and quantity scores of the cities. Pearson r will test for correlation.  
 
 T-test will show the significance of score differences for the cities with the sign of change in position and without. 
 
-Who will find the findings valuable, and how will they use them?
+### Who will find the findings valuable, and how will they use them?
 
 The startupers will be interested in knowing which country or city to choose to realize their ideas. 
 
@@ -42,19 +42,26 @@ Also, investors can use the findings to choose the correct location to invest th
 * P-value is less than alpha(.05) Pearson r test
 * There is a statistically significant linear relationship between quantity score and quality score of the countries. The relationship is positive.
 
-![image](https://user-images.githubusercontent.com/98500457/200921028-053100bc-cf09-42ec-9eb0-ed8ac9516ce7.png)
+## The analyses - Hypothesis 1:
 
-The scatterplot shows correlation between quantity and quality scores of the cities. Colors indicates if there is a sign of change in position or not. As we can see the data is correlated and it is positive correlation:  
-  
-![image](https://user-images.githubusercontent.com/98500457/200920821-d7df61ad-4b56-420e-b956-02a0f3e7dc32.png)
-  
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/98500457/200926278-105a7fe0-a65f-41e0-961e-40c280c02ef7.png">
 
-  
-* Strategy 2: Assume growth in revenue of cars, number of cars remains same
-* Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
-Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
+* The boxplot visually shows  the distributions between the cities with the sign of change in position and without the sign of change in position.
+* An independent samples t-test was used to support the hypothesis 
+* P-value = 0.13
+* The t-test confirmed the hypothesis 2.
+
+### Project Summary
+* Hypothesis 1 has been rejected. There is a positive correlation between quality and quantity scores. Which means cities performing well in one field also perform well in the other one.
+* Hypothesis 2 has been confirmed. There is no statistically significant difference in the average total score of the cities with the sign of change in position and without the sign of change in position.
+
+## Recommendations
+### Investors:
+Look for quantity and quality scores of the cities when deciding to invest your money, since they indicate successfulness of the project you are investing in.
+### Startupers:
+Pick anywhere to start realizing your ideas regardless of the position of the countries. You can enter the market online which gives you wider audience and the location won't make any sense. 
 
 ### More Information
-See the full analysis in the [Excel file](https://1drv.ms/x/s!Aq0hO2ADWvnDgRgk7AValxXS06hH) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
+See the full analysis in the [Jupyter Notebook ](https://github.com/Aizhanbaibolot/Statistical-Analysis-Startup-Data/blob/main/capstone_3.ipynb) or review this [presentation](https://github.com/Aizhanbaibolot/Statistical-Analysis-Startup-Data/blob/main/capstone3_startups.pdf).
 
 For additional info, contact Aizhan Baibolot at []()aizhanbaibolot0@gmail.com
